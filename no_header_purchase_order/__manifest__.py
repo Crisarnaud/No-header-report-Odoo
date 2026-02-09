@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Gestions des headers sur la facture",
-    'summary': """Management header in invoice report""",
-    'description': """Management header in invoice report""",
-    'author': "VEONE",
+    'name': "Gestions des headers sur le bon de commande",
+    'summary': """Management header in purchase order report""",
+    'description': """Management header in purchase order report""",
+    'author': "@crisarnaud",
     'version': '15.0',
-    'category': 'Accounting',
+    'category': 'Purchase',
     'depends': ['base', 'web', 'purchase'],
     'licenses': 'LGPL-3',
     'data': [
